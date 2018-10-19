@@ -1,0 +1,23 @@
+{
+    "DOCUMENTOS_LEVAR": [
+      "O que levo pra votar?",
+      "Levo que documentos pra votar?",
+      "Pode votar com a carteira de motorista?",
+      "Vota sem documento?",
+      "O etitulo é válido pra votar?"
+    ],
+    "CANDIDATOS_VOTAR": [
+      "Quantos candidatos vou votar?",
+      "Esse ano vota pra quê?",
+      "Vou votar em quantos senadores?",
+      "Voto em que esse ano?",
+      "Qual a ordem de votação?"
+    ],
+    "ZONA_ELEITORAL": [
+      "Cadê minha zona?",
+      "Como saber minha sessão?",
+      "Aonde vota?",
+      "Me diz aonde eu voto",
+      "Que lugar posso saber minha zona eleitoral"
+    ]
+  }
